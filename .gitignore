@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+3d/Assets/**/*.meta
+3d/Assets/*.meta
+3d/Assets/Audio/*
+3d/Assets/Sprites/*
+3d/obj/Debug/*.cache
+3d/Library/*
+3d/logs/*
